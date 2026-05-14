@@ -1,7 +1,7 @@
 # ☕ Complete Java Topics List (Core + Advanced Java)
  
 ## 🟢 Core Java Topics
- 
+  
 ### 1️⃣ Basics of Java
   
 * Introduction to Java
