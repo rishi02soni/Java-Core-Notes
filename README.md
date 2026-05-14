@@ -3,7 +3,7 @@
 ## 🟢 Core Java Topics
  
 ### 1️⃣ Basics of Java
- 
+  
 * Introduction to Java
 * Features of Java
 * JVM, JDK, JRE
